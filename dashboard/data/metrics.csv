@@ -1,0 +1,8 @@
+run,metric,value,model,timestamp
+run_lin,RMSE,1.5969577916129676,RegLinealMultiple,2025-09-23
+run_lin,R2,0.9999417130198225,RegLinealMultiple,2025-09-23
+run_log,Accuracy,0.9997897540121943,RegLogistica,2025-09-23
+run_log,Precision,0.999860529986053,RegLogistica,2025-09-23
+run_log,Recall,0.9993030387510454,RegLogistica,2025-09-23
+run_log,F1,0.9995817066369214,RegLogistica,2025-09-23
+run_log,ROC_AUC,0.9999838645837046,RegLogistica,2025-09-23

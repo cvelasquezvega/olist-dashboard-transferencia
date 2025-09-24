@@ -1,0 +1,1 @@
+# utilidades comunes (placeholder)
