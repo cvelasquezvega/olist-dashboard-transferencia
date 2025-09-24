@@ -1,7 +1,8 @@
 # Proyecto final – Etapa de Transferencia
 
 Este repositorio contiene el código y los artefactos del dashboard (Dash/Plotly) y el informe del proyecto.
-Sigue la estructura propuesta en clase para asegurar reproducibilidad.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cvelasquezvega/olist-dashboard-transferencia/HEAD)
+
 
 ## Estructura
 ```
