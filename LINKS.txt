@@ -1,2 +1,2 @@
-GitHub: https://github.com/USUARIO/REPO  # reemplazar
-Binder: https://mybinder.org/v2/gh/USUARIO/REPO/HEAD?urlpath=voila/render/dashboard/app.py  # opcional, adaptar
+GitHub: https://github.com/cvelasquezvega/olist-dashboard-transferencia
+Binder: https://mybinder.org/v2/gh/cvelasquezvega/olist-dashboard-transferencia/HEAD
